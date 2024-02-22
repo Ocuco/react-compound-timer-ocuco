@@ -1,4 +1,4 @@
-# react-compound-timerv2
+# react-compound-timerv2-ocuco
 
 ### About
 
